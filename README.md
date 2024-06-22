@@ -1,5 +1,5 @@
-# ![The Pixel Project Logo](TPPGithub.png)  
 # ThePixelProject-docs
+# ![The Pixel Project Logo](TPPGithub.png)  
 
 Everything you need to know about The Pixel Project
 
