@@ -8,7 +8,7 @@ The Pixel Project device maintainers:
 
 - **MUST** upload: 
      
-     - All device sources on [TPP-Devices](github.com/TPP-Devices). It goes without saying that these should be fully buildable. External repositories for build releases are prohibited. Exceptions may be open only if it's absolutely necessary.
+     - All device sources on [TPP-Devices](https://github.com/TPP-Devices). It goes without saying that these should be fully buildable. External repositories for build releases are prohibited. Exceptions may be open only if it's absolutely necessary.
 
      - Changelogs for each build. These MUST be user friendy, simplifying changes for the average users who may not be familiar with concepts like PlayIntegrity or color calibration but wish to know what has changed since the last update.
     
