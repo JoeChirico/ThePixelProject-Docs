@@ -18,7 +18,7 @@ Exceptions can be requested by contacting the Core Team.
 
 - The device **MUST** have complete hardware compatibility equivalent to the stock ROM. For example, if 'X Hardware feature' works on stock ROM, it must also function on The Pixel Project. The only exceptions allowed are VoLTE and NFC payment methods.
 
-- The device **MUST NOT** incorporate any unused overlays or packages. This includes, but is not limited to, unbuilt packages, non-functional packages, obsolete packages, placebo 'tweaks', or any packages that introduce unnecessary and/or undesired features, as specified in the Maintainers Code of Conduct.
+- The device **MUST NOT** incorporate any unused overlays or packages. This includes, but is not limited to, unbuilt packages, non-functional packages, obsolete packages, placebo 'tweaks', or any packages that introduce unnecessary and/or undesired features, as specified in the [Maintainers Code of Conduct](https://github.com/JoeChirico/ThePixelProject-docs/blob/main/maintainers_code_of_conduct.md).
 
 - The device sources **MUST** comply with all the relevant provisions outlined in our Maintainers Code of Conduct regarding the device source code.
 
